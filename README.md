@@ -18,3 +18,4 @@ The objective of this task is to design, implement, and demonstrate a multi-clou
 
 output
 
+![Image](https://github.com/user-attachments/assets/ff294e55-bac7-47c7-a38b-ab1dbad0aa3a)
